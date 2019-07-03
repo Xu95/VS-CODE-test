@@ -1,0 +1,6 @@
+./core/doc/admin/enterprise_installation/supported_apps_installation.html:171:<p>First Run Wizard (firstrunwizard)</p>
+./core/doc/admin/operations/theming.html:368:<div class="highlight-php"><pre>&lt;div id="firstrunwizard"&gt;
+./core/doc/admin/_sources/enterprise_installation/supported_apps_installation.txt:35:First Run Wizard (firstrunwizard)
+./core/doc/admin/_sources/operations/theming.txt:266: <div id="firstrunwizard">i
+./core/shipped.json:22:    "firstrunwizard",
+./settings/templates/personal.php:51:	<?php if(OC_APP::isEnabled('firstrunwizard')) {?>

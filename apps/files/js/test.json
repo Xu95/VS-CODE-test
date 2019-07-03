@@ -1,0 +1,36 @@
+{
+    "apps":[
+            {
+                "id":"3","name":"word",
+                "location":"0","type":"sca",
+                "icon":null,
+                "path":"C:\\Program Files (x86)\\Microsoft Office\\root\\Office16\\WINWORD.exe",
+                "release":"1",
+                "description":"",
+                "dockername":"",
+                "feesmodel":"1",
+                "price_hour":"0.00",
+                "price_month":"0.00",
+                "price_year":"0.00",
+                "is_autostart":"0"
+            },
+            {
+                "id":"30",
+                "name":"docker",
+                "location":"0",
+                "type":"lca",
+                "icon":null,
+                "path":"",
+                "release":"1",
+                "description":"",
+                "dockername":"docker_gedit",
+                "feesmodel":"1",
+                "price_hour":"0.00",
+                "price_month":"0.00",
+                "price_year":"0.00",
+                "is_autostart":"0"
+            }
+        ],
+    "code" :  800
+    
+}
